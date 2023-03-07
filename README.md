@@ -1,8 +1,5 @@
 
 <h1 align="center">
-  <br>
-  <a href="#"><img src="resources/images/logo.png" alt="Markdownify" width="200"></a>
-  <br>
   Softie colour theme
   <br>
 </h1>
