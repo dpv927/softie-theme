@@ -2,8 +2,11 @@
   "name": "softie-theme",
   "displayName": "softie-theme",
   "description": " A dark and soft theme designed to maintain the health of your eyes.",
-  "version": "0.0.1",
-  "publisher": "filipondios",
+  "version": "0.0.2",
+  "publisher": {
+    "name": "dpv927",
+    "icon": "./resources/images/logout.png"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dpv927/softie-theme"
