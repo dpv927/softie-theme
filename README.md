@@ -1,12 +1,15 @@
-<h1 align="center">
-  Softie colour theme
+<div class="logo" align="center">
+  <img src="resources/images/logout.png" width="150">
+</div>
+
+<h1 class="title" align="center">
+  Softie Colour Theme
   <br>
 </h1>
 
 <div class="description" align="center">
   <p>A dark and soft theme designed to maintain the health of your eyes.</p>
 </div>
-
 
 <div class="badges" align="center">
   <img src="https://img.shields.io/github/stars/dpv927/softie-theme?color=f0afaf">
@@ -33,41 +36,41 @@
 
 ## About
 
-*Softie* es un tema de color suave, y con tonalidad oscura especialmente para editores de texto. Tiene un aspecto parecido a los colores del tema 'pastel' pero mucho más resaltantes, bonitos y agradables.
+*Softie* is a soft-colored theme with a dark tone, especially designed for text editors. It has a similar appearance to pastel colors but with more vibrant, beautiful, and pleasant shades.
 
-**¿Por qué usar softie para tu editor de textos?** Pues bien, como ya se ha comentado antes, este es un tema oscuro, lo cual es más agradable a la vista que un tema con fondo blanco o light, y además, los demás colores de la paleta resaltan lo suficiente como para hacer una sintaxis clara, pero sin ser demasiado llamativos. 
+Why should you use Softie for your text editor? Well, as mentioned before, this is a dark theme, which is more pleasant to the eyes than a white or light background. Moreover, the other colors in the palette are prominent enough to provide clear syntax highlighting without being too distracting.
 
-La paleta de colores es la siguiente:
+The color palette is the next one:
 
 | <img src="resources/images/red.png" width="100px;"/><br/><b>``#fb7676``</b><br/> | <img src="resources/images/green.png" width="100px;"/><br/><b>``#b1ee86``</b><br/> | <img src="resources/images/yellow.png" width="100px;"/><br/><b>``#fbe09f``</b><br/> | <img src="resources/images/blue.png" width="100px;"/><br/><b>``#99b6ff``</b><br/> | <img src="resources/images/purple.png" width="100px;"/><br/><b>``#f0bfff``</b><br/> |
 | --- | --- | --- | --- | --- |
 | <p align="center"><img src="resources/images/red2.png" width="100px;"/><br/><b>``#f0afaf``</b><br/></p> | <p align="center"><img src="resources/images/brown.png" width="100px;"/><br/><b>``#d4a373``</b><br/></p> | <p align="center"><img src="resources/images/blue2.png" width="100px;"/><br/><b>``#88c9de``</b><br/></p> | <p align="center"><img src="resources/images/gray.png" width="100px;"/><br/><b>``#7f848e``</b><br/></p> | <p align="center"><img src="resources/images/black.png" width="100px;"/><br/><b>``#292932``</b><br/></p> |
 
-
 ## Download
 
-El tema de color está actualmente disponible para [vscode](https://code.visualstudio.com/), pero puedes aplicarlo si quieres a cualquier otro sitio usando los colores de la paleta. Dicho esto, puedes instalar la extension de vscode en [este sitio](https://marketplace.visualstudio.com/items?itemName=filipondios.softie-theme) o directamente en el apartado de extensiones de vscode.
+The color theme is currently available for [VSCode](https://code.visualstudio.com/), but you can apply it to any other platform using the colors from the palette. That being said, you can install the VSCode extension from [this website](https://marketplace.visualstudio.com/items?itemName=filipondios.softie-theme) or directly from the extensions section in VSCode.
 
-Alternativamente puedes hacer un fork a este repositorio y clonarlo para contribuir al desarrollo:
+Alternatively, you can fork this repository and clone it to contribute to its development:
 ```bash
 git clone https://github.com/your_user_name/softie-theme
 cd softie-theme
 # ... make your changes
 git commit -m "commit message" && git push
 ```
-Posteriormente abre un pull request a este repositorio. Tus aportaciones serán revisadas y agradecidas en el caso de que se trate de un desarrollo que siga con la filosofía de este tema de color.
+Afterward, open a pull request to this repository. Your contributions will be reviewed and appreciated if they follow the philosophy of this color theme.
 
 ## Related
 
-En mi otra cuenta, tengo algunos temas de color adicionales para el plugin de Eclipse 'Dev-Style', los cuales son algunos basados en temas populares de internet, y otros que son creaciones mías. Si bien tienes algun tema que quieras que esté implementado para este plugin, simplemente contacta conmigo o abre un issue en ese repositorio. [Este es el enlace](https://github.com/Filipondios/Eclipse-Dev-Style-Themes).
+In my other account, I have some additional color themes for the Eclipse 'Dev-Style' plugin, which are some based on popular themes on the internet, and others that are my own creations. If you have any theme that you would like to be implemented for this plugin, simply contact me or open an issue in that repository. [Here is the link](https://github.com/Filipondios/Eclipse-Dev-Style-Themes).
 
 ## Credits
 
-El tema ha sido inspirado por otros temas populares para editores. Aquí dejo las referencias:
+The theme has been inspired by other popular themes for text editors. Here are the references:
 
-| a | b |
-| --- | --- |
+- [Electron: Onedark theme](https://github.com/topics/one-dark)
+- [NvChad: Aquarium theme](https://nvchad.com/themes/themelist)
+- [Catppuccin: catppuccin theme](https://github.com/catppuccin/catppuccin)
 
 ## License
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+This project is under the [MIT license](LICENSE).
