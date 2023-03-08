@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [0.0.1] Basic soft theme for the vscode editor.
 - [0.0.2] Improved color scheme for the title bar.
 - [0.0.2] Improved color for selected items at the sidebar.
+- [0.0.2] Added a color to the sidebar borders 
 
 ### Fixed
 
