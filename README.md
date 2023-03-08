@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Softie colour theme
   <br>
@@ -40,9 +39,9 @@
 
 La paleta de colores es la siguiente:
 
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 |
-| :-------: | :-------: | :-------: | :-------: |
-| <div style="background-color:#FF0000">&nbsp;</div> | <div style="background-color:#00FF00">&nbsp;</div> | <div style="background-color:#0000FF">&nbsp;</div> | <div style="background-color:#FFFF00">&nbsp;</div> |
+| <img src="resources/images/red.png" width="100px;"/><br/><b>``#fb7676``</b><br/> | <img src="resources/images/green.png" width="100px;"/><br/><b>``#b1ee86``</b><br/> | <img src="resources/images/yellow.png" width="100px;"/><br/><b>``#fbe09f``</b><br/> | <img src="resources/images/blue.png" width="100px;"/><br/><b>``#99b6ff``</b><br/> | <img src="resources/images/purple.png" width="100px;"/><br/><b>``#f0bfff``</b><br/> |
+| --- | --- | --- | --- | --- |
+| <p align="center"><img src="resources/images/red2.png" width="100px;"/><br/><b>``#f0afaf``</b><br/></p> | <p align="center"><img src="resources/images/brown.png" width="100px;"/><br/><b>``#d4a373``</b><br/></p> | <p align="center"><img src="resources/images/blue2.png" width="100px;"/><br/><b>``#88c9de``</b><br/></p> | <p align="center"><img src="resources/images/gray.png" width="100px;"/><br/><b>``#7f848e``</b><br/></p> | <p align="center"><img src="resources/images/black.png" width="100px;"/><br/><b>``#292932``</b><br/></p> |
 
 
 ## Download
