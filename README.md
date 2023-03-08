@@ -12,12 +12,12 @@
 </div>
 
 <div class="badges" align="center">
-  <img src="https://img.shields.io/github/stars/dpv927/softie-theme?color=f0afaf">
-  <img src="https://img.shields.io/github/last-commit/dpv927/softie-theme?color=b1ee86">
-  <img src="https://img.shields.io/github/license/dpv927/softie-theme?color=fbe09f">
-  <img src="https://img.shields.io/visual-studio-marketplace/d/filipondios.softie-theme?color=f0bfff">
-  <img src="https://img.shields.io/github/repo-size/dpv927/softie-theme?color=99b6ff">
-  <img src="https://img.shields.io/github/forks/dpv927/softie-theme?color=7f848e">
+  <img src="https://img.shields.io/github/stars/dpv927/softie-theme?color=f0afaf&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/dpv927/softie-theme?color=b1ee86&style=flat-square">
+  <img src="https://img.shields.io/github/license/dpv927/softie-theme?color=fbe09f&style=flat-square">
+  <img src="https://img.shields.io/visual-studio-marketplace/d/filipondios.softie-theme?color=f0bfff&style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/dpv927/softie-theme?color=99b6ff&style=flat-square">
+  <img src="https://img.shields.io/github/forks/dpv927/softie-theme?color=7f848e&style=flat-square">
 </div>
 
 <div class="shortcuts" align="center">
