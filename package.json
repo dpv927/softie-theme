@@ -2,7 +2,7 @@
   "name": "softie-theme",
   "displayName": "softie-theme",
   "description": " A dark and soft theme designed to maintain the health of your eyes.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": {
     "name": "filipondios",
     "icon": "./resources/images/logout.png"
