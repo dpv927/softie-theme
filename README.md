@@ -22,6 +22,7 @@
 
 <div class="shortcuts" align="center">
   <a href="#about">About</a> •
+  <a href="#credits">Color Palette</a> •
   <a href="#download">Download</a> •
   <a href="#related">Related</a> •
   <a href="#credits">Credits</a> •
