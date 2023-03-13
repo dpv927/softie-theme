@@ -31,7 +31,9 @@
 <br>
 
 <div class="preview" align="center">
-  <img src="resources/images/preview.png">
+  
+![imagen](https://user-images.githubusercontent.com/113710742/224733973-1febd380-89e2-4b70-b254-f4612ed5cd0c.png)
+  
 </div>
 
 ## About
@@ -40,11 +42,15 @@
 
 Why should you use Softie for your text editor? Well, as mentioned before, this is a dark theme, which is more pleasant to the eyes than a white or light background. Moreover, the other colors in the palette are prominent enough to provide clear syntax highlighting without being too distracting.
 
-The color palette is the next one:
+## Color palette
+
+<div align="center" class="palette">
 
 | <img src="resources/images/red.png" width="100px;"/><br/><b>``#fb7676``</b><br/> | <img src="resources/images/green.png" width="100px;"/><br/><b>``#b1ee86``</b><br/> | <img src="resources/images/yellow.png" width="100px;"/><br/><b>``#fbe09f``</b><br/> | <img src="resources/images/blue.png" width="100px;"/><br/><b>``#99b6ff``</b><br/> | <img src="resources/images/purple.png" width="100px;"/><br/><b>``#f0bfff``</b><br/> |
 | --- | --- | --- | --- | --- |
 | <p align="center"><img src="resources/images/red2.png" width="100px;"/><br/><b>``#f0afaf``</b><br/></p> | <p align="center"><img src="resources/images/brown.png" width="100px;"/><br/><b>``#d4a373``</b><br/></p> | <p align="center"><img src="resources/images/blue2.png" width="100px;"/><br/><b>``#88c9de``</b><br/></p> | <p align="center"><img src="resources/images/gray.png" width="100px;"/><br/><b>``#7f848e``</b><br/></p> | <p align="center"><img src="resources/images/black.png" width="100px;"/><br/><b>``#292932``</b><br/></p> |
+
+</div>
 
 ## Download
 
