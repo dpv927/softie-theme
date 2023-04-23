@@ -57,6 +57,7 @@ Why should you use Softie for your text editor? Well, as mentioned before, this 
 
 The color theme is currently available for [VSCode](https://code.visualstudio.com/), but you can apply it to any other platform using the colors from the palette. That being said, you can install the VSCode extension from [this website](https://marketplace.visualstudio.com/items?itemName=filipondios.softie-theme) or directly from the extensions section in VSCode.
 
+## Contribute 
 Alternatively, you can fork this repository and clone it to contribute to its development:
 ```bash
 git clone https://github.com/your_user_name/softie-theme
