@@ -1,0 +1,29 @@
+# Softie theme for Alacritty
+colors:
+  primary:
+    background: '#292932'
+    foreground: '#cbc6c6'
+  cursor:
+    text: CellBackground
+    cursor: '#cbc6c6'
+  selection:
+    text: CellForeground
+    background: '#363c41'
+  normal:
+    black:   '#21222c'
+    red:     '#ffa6a6'
+    green:   '#b1ee86'
+    yellow:  '#ffe096'
+    blue:    '#99b6ff'
+    magenta: '#f0bfff'
+    cyan:    '#88c9de'
+    white:   '#cbc6c6'
+  bright:
+    black:   '#686f75'
+    red:     '#ffa6a6'
+    green:   '#b1ee86'
+    yellow:  '#ffe096'
+    blue:    '#99b6ff'
+    magenta: '#f0bfff'
+    cyan:    '#88c9de'
+    white:   '#f5f5f5'
