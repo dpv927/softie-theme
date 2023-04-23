@@ -60,10 +60,6 @@ Why should you use Softie for your text editor? Well, as mentioned before, this 
 | Cyan         | `#88c9de` | `136 201 222` | `195°  57%  70%` | ![Cyan Color](resources/images/cia.png)        |
 | Green        | `#b1ee86` | `177 238 134` | ` 95°  75%  73%`  | ![Green Color](resources/images/gre.png)      |
 
-## Download
-
-The color theme is currently available for [VSCode](https://code.visualstudio.com/), but you can apply it to any other platform using the colors from the palette. That being said, you can install the VSCode extension from [this website](https://marketplace.visualstudio.com/items?itemName=filipondios.softie-theme) or directly from the extensions section in VSCode.
-
 ## Contribute 
 Alternatively, you can fork this repository and clone it to contribute to its development:
 ```bash

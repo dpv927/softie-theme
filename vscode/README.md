@@ -8,7 +8,7 @@
 </h1>
 
 <div class="description" align="center">
-  <p>A dark and soft theme designed to maintain the health of your eyes.</p>
+  <p>A dark and soft theme designed to maintain the health of your eyes at VsCode.</p>
 </div>
 
 <div class="badges" align="center">
@@ -34,19 +34,9 @@
 
 </div>
 
-## About
+## Download
 
-*Softie* is a soft-colored theme with a dark tone, especially designed for text editors. It has a similar appearance to pastel colors but with more vibrant, beautiful, and pleasant shades.
-
-Why should you use Softie for your text editor? Well, as mentioned before, this is a dark theme, which is more pleasant to the eyes than a white or light background. Moreover, the other colors in the palette are prominent enough to provide clear syntax highlighting without being too distracting.
-
-## Credits
-
-The theme has been inspired by other popular themes for text editors. Here are the references:
-
-- [Electron: Onedark theme](https://github.com/topics/one-dark)
-- [NvChad: Aquarium theme](https://nvchad.com/themes/themelist)
-- [Catppuccin: catppuccin theme](https://github.com/catppuccin/catppuccin)
+The color theme for [VSCode](https://code.visualstudio.com/) is currently available at the official [Visual Studio website](https://marketplace.visualstudio.com/items?itemName=filipondios.softie-theme) or directly from the extensions section in VSCode, where you can search it as `softie-theme` or `softie dpv927`. 
 
 ## License
 
