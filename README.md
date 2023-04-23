@@ -45,7 +45,7 @@ Why should you use Softie for your text editor? Well, as mentioned before, this 
 
 ## Color palette
 
-| Palette      | Hex       | RGB           | HSL             | Preview   |
+| Palette      | Hex       | RGB           | HSL             |  |
 | ------------ | --------- | ------------- | --------------- | ------------------------------------------------- 
 | Background   | `#292932` | ` 41  41  50` | `240°  10%  18%` | ![Background Color](resources/images/bg.png)   |
 | Current Line | `#31313a` | ` 49  49  58` | `240°   8%  21%` | ![Current Line Color](resources/images/cl.png) |
