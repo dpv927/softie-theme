@@ -47,10 +47,10 @@ Why should you use Softie for your text editor? Well, as mentioned before, this 
 
 | Palette      | Hex       | RGB           | HSL             | Preview   |
 | ------------ | --------- | ------------- | --------------- | ------------------------------------------------- 
-| Background   | `#292932` | `41 41 50`    | `240°  10%  18%` | ![Background Color](resources/images/bg.png)   |
-| Current Line | `#31313a` | `49 49 58`    | `240°   8%  21%` | ![Current Line Color](resources/images/cl.png) |
-| Selection    | `#363c41` | `54 60 65`    | `207°   9%  23%` | ![Selection Color](resources/images/sel.png)   |
-| Foreground   | `#cbc6c6` | `54 60 65`    | `  0°   5%  79%` | ![Foreground Color](resources/images/fg.png)   |
+| Background   | `#292932` | ` 41  41  50` | `240°  10%  18%` | ![Background Color](resources/images/bg.png)   |
+| Current Line | `#31313a` | ` 49  49  58` | `240°   8%  21%` | ![Current Line Color](resources/images/cl.png) |
+| Selection    | `#363c41` | ` 54  60  65` | `207°   9%  23%` | ![Selection Color](resources/images/sel.png)   |
+| Foreground   | `#cbc6c6` | ` 54  60  65` | `  0°   5%  79%` | ![Foreground Color](resources/images/fg.png)   |
 | Comment      | `#7f848e` | `127 132 142` | `220°   6%  53%` | ![Comment Color](resources/images/com.png)     |
 | Purple       | `#f0bfff` | `240 191 255` | `286° 100%  87%` | ![Purple Color](resources/images/pur.png)      |
 | Red          | `#ffa6a6` | `255 166 166` | `  0° 100%  83%` | ![Red Color](resources/images/red.png)         |
