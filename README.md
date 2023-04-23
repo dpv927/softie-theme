@@ -45,13 +45,20 @@ Why should you use Softie for your text editor? Well, as mentioned before, this 
 
 ## Color palette
 
-<div align="center" class="palette">
-
-| <img src="resources/images/red.png" width="100px;"/><br/><b>``#fb7676``</b><br/> | <img src="resources/images/green.png" width="100px;"/><br/><b>``#b1ee86``</b><br/> | <img src="resources/images/yellow.png" width="100px;"/><br/><b>``#fbe09f``</b><br/> | <img src="resources/images/blue.png" width="100px;"/><br/><b>``#99b6ff``</b><br/> | <img src="resources/images/purple.png" width="100px;"/><br/><b>``#f0bfff``</b><br/> |
-| --- | --- | --- | --- | --- |
-| <p align="center"><img src="resources/images/red2.png" width="100px;"/><br/><b>``#f0afaf``</b><br/></p> | <p align="center"><img src="resources/images/brown.png" width="100px;"/><br/><b>``#d4a373``</b><br/></p> | <p align="center"><img src="resources/images/blue2.png" width="100px;"/><br/><b>``#88c9de``</b><br/></p> | <p align="center"><img src="resources/images/gray.png" width="100px;"/><br/><b>``#cbc6c6``</b><br/></p> | <p align="center"><img src="resources/images/black.png" width="100px;"/><br/><b>``#292932``</b><br/></p> |
-
-</div>
+| Palette      | Hex       | RGB           | HSL             | Preview   |
+| ------------ | --------- | ------------- | --------------- | ------------------------------------------------- 
+| Background   | `#292932` | `41 41 50`    | `240°  10%  18%` | ![Background Color](resources/images/bg.png)   |
+| Current Line | `#31313a` | `49 49 58`    | `240°   8%  21%` | ![Current Line Color](resources/images/cl.png) |
+| Selection    | `#363c41` | `54 60 65`    | `207°   9%  23%` | ![Selection Color](resources/images/sel.png)   |
+| Foreground   | `#cbc6c6` | `54 60 65`    | `  0°   5%  79%` | ![Foreground Color](resources/images/fg.png)   |
+| Comment      | `#7f848e` | `127 132 142` | `220°   6%  53%` | ![Comment Color](resources/images/com.png)     |
+| Purple       | `#f0bfff` | `240 191 255` | `286° 100%  87%` | ![Purple Color](resources/images/pur.png)      |
+| Red          | `#ffa6a6` | `255 166 166` | `  0° 100%  83%` | ![Red Color](resources/images/red.png)         |
+| Orange       | `#f7c390` | `247 195 144` | ` 30°  87%  77%` | ![Orange Color](resources/images/org.png)      |
+| Yellow       | `#ffe096` | `255 224 150` | ` 42° 100%  79%` | ![Yellow Color](resources/images/yel.png)      |
+| Blue         | `#99b6ff` | `153 182 255` | `223° 100%  80%` | ![Cyan Color](resources/images/blu.png)        |
+| Cyan         | `#88c9de` | `136 201 222` | `195°  57%  70%` | ![Cyan Color](resources/images/cia.png)        |
+| Green        | `#b1ee86` | `177 238 134` | ` 95°  75%  73%`  | ![Green Color](resources/images/gre.png)      |
 
 ## Download
 
