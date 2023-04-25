@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="softie-theme" author="Filipondios">
+
+    <singleLineComment color="#7f848e"/> 
+    <multiLineComment color="#7f848e"/>
+    
+    <javadoc color="#7f848e" italic="false"/>
+    <javadocLink color="#b1ee86" italic="false" underline="true" strikethrough="false"/> 
+    <javadocTag color="#b1ee86" italic="false"/>
+    <javadocKeyword color="#b1ee86" italic="false"/> 
+
+    <keyword color="#ffa6a6" bold="true" underline="false" strikethrough="false"/> 
+
+    <searchResultIndication color="#44475a"/> 
+    <filteredSearchResultIndication color="#44475a"/> 
+    <occurrenceIndication color="#44475a" underline="true"/> 
+    <writeOccurrenceIndication color="#44475a" underline="true"/> 
+    <findScope color="#44475a"/> 
+    <deletionIndication color="#ffb86c"/>
+    <sourceHoverBackground color="#8be9fd"/>
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" />
+    
+    <class color="#ffe096" bold="false" underline="false" strikethrough="false"/> 
+    <enum color="#ffe096"/> 
+    <interface color="#ffe096"/> 
+   
+    <method color="#99b6ff"/>
+    <methodDeclaration color="#99b6ff"/> 
+    <staticMethod color="#99b6ff"/>
+    <inheritedMethod color="#99b6ff"/> 
+    <abstractMethod color="#99b6ff" italic="true"/> 
+    
+    <bracket color="#ffa6a6"/> 
+    <number color="#f7c390"/> 
+    <string color="#b1ee86"/> 
+    <operator color="#88c9de"/> 
+
+    <field color="#f0bfff"/> 
+    <staticField color="#f0bfff" bold="false" italic="true"/> 
+    <staticFinalField color="#f0bfff" bold="true" italic="true"/> 
+    
+    <parameterVariable color="#f0bfff"/> 
+    <localVariableDeclaration color="#f0bfff" /> 
+    <localVariable color="#cbc6c6"/> 
+    <constant color="#f7c390"/> 
+
+    <background color="#292932"/>
+    <foreground color="#cbc6c6"/>
+    <lineNumber color="#7f848e"/> 
+    
+    <currentLine color="#31313a"/> 
+    <selectionBackground color="#363c41"/> 
+    <selectionForeground color="#cbc6c6"/>
+    
+    <deprecatedMember color="#ff8c00" underline="false" strikethrough="true"/> 
+    
+    <annotation color="#c9d1d9"/> 
+    <typeArgument color="#ffe096"/>
+    <typeParameter color="#ffe096"/>
+</colorTheme>
