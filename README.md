@@ -9,7 +9,7 @@
   <a href="https://github.com/dpv927/softie-theme#-showcase">Showcase</a>
   ·
   <a href="https://github.com/dpv927/softie-theme#-availability">Availability</a>
-  .
+  ·
   <a href="https://github.com/dpv927/softie-theme#-license">License</a>
 </h6>
 
