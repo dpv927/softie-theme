@@ -1,87 +1,83 @@
-<div class="logo" align="center">
-  <img src="resources/images/logout.png" width="150">
-</div>
+<h3 align="center">
+  <img src="assets/logos/logo_circular.png" width="100" alt="logo"></br>
+  Softie Theme
+</h3>
 
-<h1 class="title" align="center">
-  Softie Colour Theme
-  <br>
-</h1>
+<h6 align="center">
+  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
+  ·
+  <a href="https://github.com/catppuccin/catppuccin#-showcase">Showcase</a>
+  ·
+  <a href="https://github.com/catppuccin/catppuccin/tree/main/docs">Docs</a>
+</h6>
 
-<div class="description" align="center">
-  <p>A dark and soft theme designed to maintain the health of your eyes.</p>
-</div>
+<p align="center">
+  <img src="assets/colors/teaser.png" width="400" />
+</p>
 
-<div class="badges" align="center">
-  <img src="https://img.shields.io/github/stars/dpv927/softie-theme?color=f0afaf&style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/dpv927/softie-theme?color=b1ee86&style=flat-square">
-  <img src="https://img.shields.io/github/license/dpv927/softie-theme?color=fbe09f&style=flat-square">
-  <img src="https://img.shields.io/visual-studio-marketplace/d/filipondios.softie-theme?color=f0bfff&style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/dpv927/softie-theme?color=99b6ff&style=flat-square">
-  <img src="https://img.shields.io/github/forks/dpv927/softie-theme?color=7f848e&style=flat-square">
-</div>
-
-<div class="shortcuts" align="center">
-  <a href="#about">About</a> •
-  <a href="#credits">Color Palette</a> •
-  <a href="#download">Download</a> •
-  <a href="#related">Related</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</div>
+<p align="center">
+	<a href="https://github.com/dpv927/softie-theme/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/dpv927/softie-theme?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="#">
+		<img alt="Last Commit" src="https://img.shields.io/github/last-commit/dpv927/softie-theme?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
+  </a>
+	<a href="https://github.com/catppuccin/catppuccin/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/catppuccin?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+	<a href="#">
+		<img alt="Size" src="https://img.shields.io/github/repo-size/dpv927/softie-theme?style=for-the-badge&logo=github&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+</p>
 
 <br>
 
-<div class="preview" align="center">
-  
-![imagen](https://user-images.githubusercontent.com/113710742/227364263-a6608712-4351-4466-a507-a2c9d6b71558.png)
+<p align="center">
+Softie theme is a color scheme designed to take care of your eyes. Typically, we choose dark themes when developing code or spending hours in front of the screen, but we miss having a color scheme that is eye-catching (but not overly so), beautiful, simple, pleasing to the eye, and above all, one that we don't get tired of. That's why I (<a href="https://github.com/dpv927">@dpv027</a>) created a color theme inspired by <a href="https://github.com/topics/one-dark">Atom OneDark</a>, <a href="https://github.com/catppuccin">Catppuccin</a>, and <a href="https://nvchad.com/themes">Aquarium theme from NvChad</a>. In this repository, you can find a variety of guides to apply this theme to your applications.
+</p>
 
-</div>
+<br>
 
-## About
-
-*Softie* is a soft-colored theme with a dark tone, especially designed for text editors. It has a similar appearance to pastel colors but with more vibrant, beautiful, and pleasant shades.
-
-Why should you use Softie for your text editor? Well, as mentioned before, this is a dark theme, which is more pleasant to the eyes than a white or light background. Moreover, the other colors in the palette are prominent enough to provide clear syntax highlighting without being too distracting.
-
-## Color palette
+### Color Palette
 
 | Palette      | Hex       | RGB           | HSL             |  |
 | ------------ | --------- | ------------- | --------------- | ------------------------------------------------- 
-| Background   | `#292932` | ` 41  41  50` | `240°  10%  18%` | ![Background Color](resources/images/bg.png)   |
-| Current Line | `#31313a` | ` 49  49  58` | `240°   8%  21%` | ![Current Line Color](resources/images/cl.png) |
-| Selection    | `#363c41` | ` 54  60  65` | `207°   9%  23%` | ![Selection Color](resources/images/sel.png)   |
-| Foreground   | `#cbc6c6` | ` 54  60  65` | `  0°   5%  79%` | ![Foreground Color](resources/images/fg.png)   |
-| Comment      | `#7f848e` | `127 132 142` | `220°   6%  53%` | ![Comment Color](resources/images/com.png)     |
-| Purple       | `#f0bfff` | `240 191 255` | `286° 100%  87%` | ![Purple Color](resources/images/pur.png)      |
-| Red          | `#ffa6a6` | `255 166 166` | `  0° 100%  83%` | ![Red Color](resources/images/red.png)         |
-| Orange       | `#f7c390` | `247 195 144` | ` 30°  87%  77%` | ![Orange Color](resources/images/org.png)      |
-| Yellow       | `#ffe096` | `255 224 150` | ` 42° 100%  79%` | ![Yellow Color](resources/images/yel.png)      |
-| Blue         | `#99b6ff` | `153 182 255` | `223° 100%  80%` | ![Cyan Color](resources/images/blu.png)        |
-| Cyan         | `#88c9de` | `136 201 222` | `195°  57%  70%` | ![Cyan Color](resources/images/cia.png)        |
-| Green        | `#b1ee86` | `177 238 134` | ` 95°  75%  73%`  | ![Green Color](resources/images/gre.png)      |
+| Background   | `#292932` | ` 41  41  50` | `240°  10%  18%` | ![Background Color](assets/colors/bg.png)   |
+| Current Line | `#31313a` | ` 49  49  58` | `240°   8%  21%` | ![Current Line Color](assets/colors/cl.png) |
+| Selection    | `#363c41` | ` 54  60  65` | `207°   9%  23%` | ![Selection Color](assets/colors/sel.png)   |
+| Foreground   | `#cbc6c6` | ` 54  60  65` | `  0°   5%  79%` | ![Foreground Color](assets/colors/fg.png)   |
+| Comment      | `#7f848e` | `127 132 142` | `220°   6%  53%` | ![Comment Color](assets/colors/com.png)     |
+| Purple       | `#f0bfff` | `240 191 255` | `286° 100%  87%` | ![Purple Color](assets/colors/pur.png)      |
+| Red          | `#ffa6a6` | `255 166 166` | `  0° 100%  83%` | ![Red Color](assets/colors/red.png)         |
+| Orange       | `#f7c390` | `247 195 144` | ` 30°  87%  77%` | ![Orange Color](assets/colors/org.png)      |
+| Yellow       | `#ffe096` | `255 224 150` | ` 42° 100%  79%` | ![Yellow Color](assets/colors/yel.png)      |
+| Blue         | `#99b6ff` | `153 182 255` | `223° 100%  80%` | ![Cyan Color](assets/colors/blu.png)        |
+| Cyan         | `#88c9de` | `136 201 222` | `195°  57%  70%` | ![Cyan Color](assets/colors/cia.png)        |
+| Green        | `#b1ee86` | `177 238 134` | ` 95°  75%  73%`  | ![Green Color](assets/colors/gre.png)      |
 
-## Contribute 
-Alternatively, you can fork this repository and clone it to contribute to its development:
-```bash
-git clone https://github.com/your_user_name/softie-theme
-cd softie-theme
-# ... make your changes
-git commit -m "commit message" && git push
-```
-Afterward, open a pull request to this repository. Your contributions will be reviewed and appreciated if they follow the philosophy of this color theme.
 
-## Related
+<br>
 
-In my other account, I have some additional color themes for the Eclipse 'Dev-Style' plugin, which are some based on popular themes on the internet, and others that are my own creations. If you have any theme that you would like to be implemented for this plugin, simply contact me or open an issue in that repository. [Here is the link](https://github.com/Filipondios/Eclipse-Dev-Style-Themes).
+### Availability
 
-## Credits
+The theme is (officially) availabe in the next applications:
 
-The theme has been inspired by other popular themes for text editors. Here are the references:
+- <a href="https://github.com/dpv927/softie-theme/tree/main/vscode">Visual Studio Code<a>
+- <a href="https://github.com/dpv927/softie-theme/tree/main/alacritty">Alacritty</a>
+- <a href="https://github.com/dpv927/softie-theme/tree/main/eclipse-dev-style">Eclipse</a>
 
-- [Electron: Onedark theme](https://github.com/topics/one-dark)
-- [NvChad: Aquarium theme](https://nvchad.com/themes/themelist)
-- [Catppuccin: catppuccin theme](https://github.com/catppuccin/catppuccin)
+<br>
 
-## License
+### Contributing
+
+> **Note** <br>
+> If you would like to submit or suggest a change for any application theme, please contact me.
+> Contributions are greatly appreciated, as there are numerous applications out there, and it's almost impossible to cover all of them, especially without any errors.
+
+See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md)
+
+<br>
+
+### License
 
 This project is under the [MIT license](LICENSE).
