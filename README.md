@@ -4,11 +4,13 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
+  <a href="https://github.com/dpv927/softie-theme#-palette">Palette</a>
   ·
-  <a href="https://github.com/catppuccin/catppuccin#-showcase">Showcase</a>
+  <a href="https://github.com/dpv927/softie-theme#-showcase">Showcase</a>
   ·
-  <a href="https://github.com/catppuccin/catppuccin/tree/main/docs">Docs</a>
+  <a href="https://github.com/dpv927/softie-theme#-availability">Availability</a>
+  .
+  <a href="https://github.com/dpv927/softie-theme#-license">License</a>
 </h6>
 
 <p align="center">
@@ -38,7 +40,7 @@ Softie theme is a color scheme designed to take care of your eyes. Typically, we
 
 <br>
 
-### Color Palette
+### Palette
 
 | Palette      | Hex       | RGB           | HSL             |  |
 | ------------ | --------- | ------------- | --------------- | ------------------------------------------------- 
@@ -73,8 +75,6 @@ The theme is (officially) availabe in the next applications:
 > **Note** <br>
 > If you would like to submit or suggest a change for any application theme, please contact me.
 > Contributions are greatly appreciated, as there are numerous applications out there, and it's almost impossible to cover all of them, especially without any errors.
-
-See [CONTRIBUTING.md](https://github.com/catppuccin/catppuccin/blob/main/CONTRIBUTING.md)
 
 <br>
 
