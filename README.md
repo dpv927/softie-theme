@@ -19,16 +19,16 @@
 
 <p align="center">
 	<a href="https://github.com/dpv927/softie-theme/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/dpv927/softie-theme?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/dpv927/softie-theme?style=for-the-badge&logo=starship&color=99b6ff&logoColor=cbc6c6&labelColor=292932">
   </a>
 	<a href="#">
-		<img alt="Last Commit" src="https://img.shields.io/github/last-commit/dpv927/softie-theme?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/>
+		<img alt="Last Commit" src="https://img.shields.io/github/last-commit/dpv927/softie-theme?style=for-the-badge&logo=github&color=ffa6a6&logoColor=cbc6c6&labelColor=292932"/>
   </a>
 	<a href="https://github.com/catppuccin/catppuccin/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/catppuccin?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+		<img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/catppuccin?style=for-the-badge&logo=gitbook&color=b1ee86&logoColor=cbc6c6&labelColor=292932">
   </a>
 	<a href="#">
-		<img alt="Size" src="https://img.shields.io/github/repo-size/dpv927/softie-theme?style=for-the-badge&logo=github&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41">
+		<img alt="Size" src="https://img.shields.io/github/repo-size/dpv927/softie-theme?style=for-the-badge&logo=github&color=f0bfff&logoColor=cbc6c6&labelColor=292932">
   </a>
 </p>
 
