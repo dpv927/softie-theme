@@ -71,7 +71,6 @@ The theme is (officially) availabe in the next applications:
 <br>
 
 ### Contributing
-
 > **Note** <br>
 > If you would like to submit or suggest a change for any application theme, please contact me.
 > Contributions are greatly appreciated, as there are numerous applications out there, and it's almost impossible to cover all of them, especially without any errors.
