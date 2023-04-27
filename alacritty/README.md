@@ -1,7 +1,3 @@
-<div class="logo" align="center">
-  <img src="../resources/images/logout.png" width="150">
-</div>
-
 <h1 class="title" align="center">
   Softie Colour Theme for Alacritty
   <br>
@@ -29,7 +25,3 @@ Then, at the start the `alacritty.yml`, add the next line:
 import:
   - softie.yml
 ```
-
-## License
-
-This project is under the [MIT license](LICENSE).
