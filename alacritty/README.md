@@ -8,10 +8,6 @@
 </div>
 <br>
 
-<div class="preview" align="center">
-<!-- La capura de pantalla va aqui -->
-</div>
-
 ## Install
 The colorscheme is stored at the `softie.yml`. You need to import the code from that file to the directory where the `alacritty.yml` file is located. First, download the softie.yml file and then type this command:
 

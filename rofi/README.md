@@ -8,10 +8,6 @@
 </div>
 <br>
 
-<div class="preview" align="center">
-<!-- La capura de pantalla va aqui -->
-</div>
-
 ## Install
 The colorscheme is stored at the `config.rasi`. You need download and copy this file into your rofi config directory. To do so, type this commands:
 
