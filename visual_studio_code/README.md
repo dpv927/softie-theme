@@ -1,5 +1,5 @@
 <h1 class="title" align="center">
-  Softie Colour Theme for VSCode
+  Softie Color Theme for VSCode
   <br>
 </h1>
 
