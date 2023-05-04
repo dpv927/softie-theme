@@ -1,5 +1,5 @@
 <h1 class="title" align="center">
-  Softie Colour Theme for Alacritty
+  Softie Color Theme for Alacritty
   <br>
 </h1>
 
