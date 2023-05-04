@@ -1,5 +1,5 @@
 <h1 class="title" align="center">
-  Softie Colour Theme for Rofi
+  Softie Color Theme for Rofi
   <br>
 </h1>
 
