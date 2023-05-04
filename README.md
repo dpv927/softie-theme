@@ -66,7 +66,7 @@ The theme is (officially) availabe in the next applications:
 
 - <a href="https://github.com/dpv927/softie-theme/tree/main/vscode">Visual Studio Code<a>
 - <a href="https://github.com/dpv927/softie-theme/tree/main/alacritty">Alacritty</a>
-- <a href="https://github.com/dpv927/softie-theme/tree/main/eclipse-dev-style">Eclipse</a>
+- <a href="https://github.com/dpv927/softie-theme/tree/main/eclipse">Eclipse</a>
 
 <br>
 
