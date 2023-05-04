@@ -1,5 +1,5 @@
 <h1 class="title" align="center">
-  Softie Colour Theme for Eclipse
+  Softie Color Theme for Eclipse
   <br>
 </h1>
 
