@@ -12,7 +12,7 @@
 The colorscheme is stored at the `config.rasi`. You need download and copy this file into your rofi config directory. To do so, type this commands:
 
 ```bash
-wget blob:https://github.com/dc84a8ad-4602-4a70-8407-8660b89e5b85
+wget https://raw.githubusercontent.com/dpv927/softie-theme/main/rofi/config.rasi
 mv ~/.config/rofi ~/.config/rofi_old
 mkdir -p ~/.config/rofi
 cp -r config.rasi ~/.config/rofi
