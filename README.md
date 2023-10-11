@@ -64,7 +64,7 @@ Softie theme is a color scheme designed to take care of your eyes. Typically, we
 
 The theme is (officially) availabe in the next applications:
 
-- <a href="https://github.com/dpv927/softie-theme/tree/main/vscode">Visual Studio Code<a>
+- <a href="https://github.com/dpv927/softie-theme/tree/main/visual_studio_code">Visual Studio Code<a>
 - <a href="https://github.com/dpv927/softie-theme/tree/main/alacritty">Alacritty</a>
 - <a href="https://github.com/dpv927/softie-theme/tree/main/eclipse">Eclipse</a>
 - <a href="https://github.com/dpv927/softie-theme/tree/main/rofi">Rofi</a>
